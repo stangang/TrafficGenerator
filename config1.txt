@@ -1,0 +1,6 @@
+server 127.0.0.1 5001
+req_size_dist /home/dongxd/PycharmProjects/TrafficGenerator/DCTCP_CDF.txt
+dscp 0 25
+dscp 1 25
+dscp 2 25
+dscp 3 25
